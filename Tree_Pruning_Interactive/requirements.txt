@@ -1,0 +1,17 @@
+# --- Core data & ML ---
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.4,<1.6
+duckdb>=1.1,<2
+
+# --- Interactivity & viz ---
+plotly>=5.22,<7
+ipywidgets>=8.1,<9
+matplotlib>=3.8,<4
+
+# --- Jupyter kernel (for VS Code) ---
+ipykernel>=6.29,<7
+
+# --- App ---
+streamlit>=1.35,<2
+
